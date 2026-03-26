@@ -11,7 +11,7 @@
 <ul>
 <li><strong>Lenguaje de Programación:</strong> Migración completa a <strong>Kotlin</strong>, permitiendo un código más conciso y seguro en comparación con las estructuras iniciales en Java.</li>
 <li><strong>Backend & Persistencia:</strong> Integración con <strong>Firebase Authentication</strong> para el acceso de usuarios y <strong>Firebase Realtime Database</strong> para la gestión de datos en tiempo real.</li>
-<li><strong>Gestión de Dependencias:</strong> Uso de <code>build.gradle.kts</code> para la implementación de librerías críticas como Lottie, Firebase BoM, Auth y Database.</li>
+<li><strong>Gestión de Dependencias:</strong> Uso de build.gradle.kts para la implementación de librerías críticas como Lottie, Firebase BoM, Auth y Database.</li>
 </ul>
 
 <h3>2.2. Implementación de la "Calculadora" Financiera</h3>
